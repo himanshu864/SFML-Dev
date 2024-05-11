@@ -1,0 +1,3 @@
+/home/artoriax/sfmlCode/build/CMakeFiles/sfml-app.dir
+/home/artoriax/sfmlCode/build/CMakeFiles/edit_cache.dir
+/home/artoriax/sfmlCode/build/CMakeFiles/rebuild_cache.dir

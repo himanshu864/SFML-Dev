@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/artoriax/sfmlCode/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/sfml-app.dir/main.cpp.o -c /home/artoriax/sfmlCode/main.cpp",
+  "file": "/home/artoriax/sfmlCode/main.cpp"
+}
+]
